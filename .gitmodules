@@ -1,0 +1,3 @@
+[submodule "src/meshroom"]
+	path = src/meshroom
+	url = git@github.com:GuillaumeVFX/meshroom.git
